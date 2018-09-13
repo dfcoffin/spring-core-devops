@@ -11,6 +11,5 @@ public class SpringCoreDevOpsApplication {
 
 		//this is a whitespace change test
 		// another test...
-        // another test...
 	}
 }
